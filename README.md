@@ -29,11 +29,11 @@ I love turning ideas into reality through code, building creative projects, and 
 ---
 
 
-## 📫 Connect with Me
-[![LinkedIn]([https://www.linkedin.com/in/nurtore-kambar-b66732313/](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/nurtore-kambar-b66732313)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:nurtorekambar21@gmail.com)
 
 
 ---
 
-> 💡 _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
+> 💡 _“There are two ways of constructing a software design: One way is to
+make it so simple that there are obviously no deficiencies, and the
+other way is to make it so complicated that there are no obvious
+deficiencies.”
