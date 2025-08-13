@@ -30,7 +30,7 @@ I love turning ideas into reality through code, building creative projects, and 
 
 
 ## 📫 Connect with Me
-[![LinkedIn]([https://www.linkedin.com/in/nurtore-kambar-b66732313/](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/nurtore-kambar-b66732313))
+[![LinkedIn]([https://www.linkedin.com/in/nurtore-kambar-b66732313/](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/nurtore-kambar-b66732313)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:nurtorekambar21@gmail.com)
 
 
