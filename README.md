@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Welcome to my Github
+## My name is Nurtore and I am currently on my first year as a Computer Science student at Astana IT University.
 <!--
 **iblamenooo/iblamenooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
