@@ -12,4 +12,4 @@ deficiencies.”
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iblamenooo&theme=github_dark&utcOffset=5)
 
-![Snake animation](https://github.com/YOUR_USERNAME/iblamenooo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/iblamenooo/iblamenooo/blob/output/github-contribution-grid-snake.svg)
